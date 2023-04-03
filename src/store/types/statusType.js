@@ -1,0 +1,1 @@
+export const SET_ALL_STATUS = 'SET_ALL_STATUS'

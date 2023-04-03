@@ -1,0 +1,4 @@
+.ant-btn > span {
+    display: flex !important;
+    justify-content: center !important;
+}
